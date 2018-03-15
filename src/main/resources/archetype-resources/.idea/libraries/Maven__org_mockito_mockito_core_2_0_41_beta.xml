@@ -1,0 +1,16 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<component name="libraryTable">
+  <library name="Maven: org.mockito:mockito-core:2.0.41-beta">
+    <CLASSES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/org/mockito/mockito-core/2.0.41-beta/mockito-core-2.0.41-beta.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/org/mockito/mockito-core/2.0.41-beta/mockito-core-2.0.41-beta-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/org/mockito/mockito-core/2.0.41-beta/mockito-core-2.0.41-beta-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

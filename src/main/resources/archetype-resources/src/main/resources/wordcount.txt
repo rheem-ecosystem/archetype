@@ -1,0 +1,15 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+This is a test file.
+It contains some other lines.
+This is a test file.
+It contains some other lines.
+This is a test file.
+It contains some other lines.
+This is a test file.
+It contains some other lines.
+This is a test file.
+It contains some other lines.
+This is a test file.
+It contains some other lines.
